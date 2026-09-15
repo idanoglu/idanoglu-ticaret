@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'İDANOĞLU TİCARET',description:'Online toptancı CRM'}; export default function RootLayout({children}){return <html lang="tr"><body>{children}</body></html>}
